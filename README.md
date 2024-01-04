@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gargi Mahashay</h1>
 <h3 align="center">I am committed to learning and self- development so that I can consistently achieve better results and have been able to deliver a consistent approach throughout a challenging period of development.</h3>
 
-- 🔭 I’m currently working on **Vehicle Detection**
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- Languages: Proficient in C, C++, Python, HTML, CSS, JavaScript
+- Databases: Experienced in working with MySQL, SQL, and MongoDB
+- Data Science: Skilled in Numpy, Pandas, and Matplotlib
+- Machine Learning: Proficient in Tensorflow, YOLO (You Only Look Once), and OpenCV
+- Automation: Experienced in Pyautogui
+- 🔭 I’m currently working on Traffix: Intelligent Traffic Control Solution
+- 📫 How to reach me **gargimahashay@gmail.com**
 
-- 📫 How to reach me **gargimahashay@gmail.com and gmahashay_be20@thapar.edu**
+
 
 ![1_qdAW1TjCN57h1lbuuzvchg](https://user-images.githubusercontent.com/108257736/187373342-92abd1f7-a384-4546-870e-7b0750ab49ab.gif)
 
